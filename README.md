@@ -12,6 +12,4 @@ PowerBI Training 2026_04 (partial version - data transformation + model).pbix - 
 
 PowerBI Training 2026_04 (partial version - data transformation).pbix - training in-progress partially finished report. Intention is for practicing model building + visualizations (data transformation is done).
 
-PowerBI Training 2026_04 guideline screenshots for print.docx - screenshots of the finished report, to be used as a guideline for this excercise
-
 readme.md - this file
